@@ -9,13 +9,8 @@ from photutils import CircularAperture, CircularAnnulus
 from photutils import DAOStarFinder
 from astropy.visualization.mpl_normalize import ImageNormalize
 from astropy.visualization import SqrtStretch
-#from photutils.aperture import aperture_photometry
 
 #Load the FITS file
-
-#GTC PUPIL
-#file_name = 'gtc_CC-circ1_psf_08.70_1.1_0240-COADD.fits'
-#file_name = 'gtc_CC-open_psf_08.70_1.1_0240-COADD.fits'
 
 #NEW DRIFT SCAN
 #file_name = 'COADD-FAST-2623409.fits'
